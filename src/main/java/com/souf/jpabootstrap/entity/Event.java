@@ -1,4 +1,4 @@
-package com.souf.jpabootstrap;
+package com.souf.jpabootstrap.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

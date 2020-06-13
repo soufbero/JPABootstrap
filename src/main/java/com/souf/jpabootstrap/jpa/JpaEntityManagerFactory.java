@@ -1,4 +1,4 @@
-package com.souf.jpabootstrap;
+package com.souf.jpabootstrap.jpa;
 
 import com.mysql.cj.jdbc.MysqlDataSource;
 import java.util.Arrays;

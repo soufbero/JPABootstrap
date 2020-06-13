@@ -1,4 +1,4 @@
-package com.souf.jpabootstrap;
+package com.souf.jpabootstrap.jpa;
 
 import java.net.URL;
 import java.util.ArrayList;
